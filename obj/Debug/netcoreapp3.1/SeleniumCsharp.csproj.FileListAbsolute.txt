@@ -1,0 +1,17 @@
+C:\Users\tulio\Sistemas\SeleniumCsharp\bin\Debug\netcoreapp3.1\SeleniumCsharp.exe
+C:\Users\tulio\Sistemas\SeleniumCsharp\bin\Debug\netcoreapp3.1\SeleniumCsharp.deps.json
+C:\Users\tulio\Sistemas\SeleniumCsharp\bin\Debug\netcoreapp3.1\SeleniumCsharp.runtimeconfig.json
+C:\Users\tulio\Sistemas\SeleniumCsharp\bin\Debug\netcoreapp3.1\SeleniumCsharp.runtimeconfig.dev.json
+C:\Users\tulio\Sistemas\SeleniumCsharp\bin\Debug\netcoreapp3.1\SeleniumCsharp.dll
+C:\Users\tulio\Sistemas\SeleniumCsharp\bin\Debug\netcoreapp3.1\SeleniumCsharp.pdb
+C:\Users\tulio\Sistemas\SeleniumCsharp\obj\Debug\netcoreapp3.1\SeleniumCsharp.csprojAssemblyReference.cache
+C:\Users\tulio\Sistemas\SeleniumCsharp\obj\Debug\netcoreapp3.1\SeleniumCsharp.AssemblyInfoInputs.cache
+C:\Users\tulio\Sistemas\SeleniumCsharp\obj\Debug\netcoreapp3.1\SeleniumCsharp.AssemblyInfo.cs
+C:\Users\tulio\Sistemas\SeleniumCsharp\obj\Debug\netcoreapp3.1\SeleniumCsharp.csproj.CoreCompileInputs.cache
+C:\Users\tulio\Sistemas\SeleniumCsharp\obj\Debug\netcoreapp3.1\SeleniumCsharp.dll
+C:\Users\tulio\Sistemas\SeleniumCsharp\obj\Debug\netcoreapp3.1\SeleniumCsharp.pdb
+C:\Users\tulio\Sistemas\SeleniumCsharp\obj\Debug\netcoreapp3.1\SeleniumCsharp.genruntimeconfig.cache
+C:\Users\tulio\Sistemas\SeleniumCsharp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tulio\Sistemas\SeleniumCsharp\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\tulio\Sistemas\SeleniumCsharp\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\tulio\Sistemas\SeleniumCsharp\obj\Debug\netcoreapp3.1\SeleniumCsharp.csproj.CopyComplete
